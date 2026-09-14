@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Azure Functions local files (contains secrets!)
+local.settings.json
+.funcignore
+
+# VS Code / OS
+.vscode/
+.DS_Store
